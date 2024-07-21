@@ -62,3 +62,17 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 <hr>
+<div>
+  <h3>IDE and Tools I Use:
+</h3>
+  <img width="36" height="36" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/> 
+  <img width="36" height="36" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img width="36" height="36" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
+  <img width="36" height="36" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
+  <img width="36" height="36" src="https://img.icons8.com/ios/50/notion.png" alt="notion"/>
+  <img width="36" height="36" src="https://img.icons8.com/color/48/arduino.png" alt="arduino"/>
+  <img width="36" height="36" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="code-blocks"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+  
+</div>
+
