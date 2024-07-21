@@ -22,6 +22,14 @@
 
 </div>
 <hr>
+
+<div>
+  <h3>About Me:</h3>
+  <p>
+    I am currently pursuing a BSc (Hons) in Computer Science with Artificial Intelligence. Passionate about leveraging cutting-edge technology to drive innovation and solve complex problems. Eager to apply my academic knowledge and practical skills to excel in the field of AI engineering. Committed to continuous learning and growth to stay at the forefront of this rapidly evolving industry. Open to opportunities where I can contribute my expertise and make a meaningful impact in the realm of artificial intelligence  </p>
+</div>
+
+<hr>
 <!---
 mnajahi887/mnajahi887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -66,14 +74,18 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h3>IDE and Tools I Use:
 </h3>
-  <img width="36" height="36" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/> 
-  <img width="36" height="36" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img width="36" height="36" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
-  <img width="36" height="36" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
-  <img width="36" height="36" src="https://img.icons8.com/ios/50/notion.png" alt="notion"/>
-  <img width="36" height="36" src="https://img.icons8.com/color/48/arduino.png" alt="arduino"/>
-  <img width="36" height="36" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="code-blocks"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/> 
+  <img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
+  <img width="40" height="40" src="https://img.icons8.com/ios/50/notion.png" alt="notion"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/48/arduino.png" alt="arduino"/>
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="code-blocks"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
   
+</div>
+<div>
+  <h3>Contact Me:</h3>
+  <a href="mailto:mnajahi887@gmail.com">📧 mnajahi887@gmail.com</a>
 </div>
 
