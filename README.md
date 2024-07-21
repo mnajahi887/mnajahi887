@@ -1,9 +1,11 @@
 <h3>Hi there, I’m Najahi Najimudeen 👋</h3>
 <img src="https://media.licdn.com/dms/image/D5616AQElFpkTG6ML1g/profile-displaybackgroundimage-shrink_350_1400/0/1720334917254?e=1727308800&v=beta&t=ZD5ysKDLv8i7UCwNXW50Cqrnw4nIZBIGt60wVKoeqAU" style="max-hight:100px" >
 <div>
-<img src="https://img.shields.io/twitter/follow/mnajahi887?style=social" alt="Twitter: mnajahi887" style="max-width: 100%;"><a href="https://www.linkedin.com/in/mnajahi887/" rel="nofollow">
-  <img src="https://img.shields.io/badge/-mnajahi887-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mnajahi887/" alt="LinkedIn: mnajahi887" style="max-width: 100%;">
+<img src="https://img.shields.io/twitter/follow/mnajahi887?style=social" alt="Twitter: mnajahi887" style="max-width: 100%;">
+  <a href="https://www.linkedin.com/in/mohamed-najahi-563aa1296/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" rel="nofollow">
+  <img src="https://img.shields.io/badge/-mohamed_najahi-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: mohamed_najahi" style="max-width: 100%;">
 </a>
+
 <a href="https://www.instagram.com/nm_najahi/" rel="nofollow">
   <img src="https://img.shields.io/badge/Instagram-follow-red?style=social&logo=instagram" alt="Instagram: nm_najahi" style="max-width: 100%;">
 </a>
