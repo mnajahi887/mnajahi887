@@ -1,5 +1,5 @@
-- 👋 Hi there, I’m Najahi
-![LeetCode Stats](https://leetcard.jacoblin.cool/mhd_najahi?theme=light&font=Paprika)
+👋 Hi there, I’m Najahi
+
 
 <!---
 mnajahi887/mnajahi887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
